@@ -7,7 +7,7 @@ We assist companies in identifying vulnerabilities, reducing attack surfaces, an
 Our approach is pragmatic and results-driven, providing clear insights and practical recommendations tailored to real production environments.
 
 ### For more info and inquiries:
-[![Telegram](https://img.shields.io/badge/@offseclinker-2CA5E0?logo=telegram&logoColor=white)](https://t.me/offseclinker) <img src="https://komarev.com/ghpvc/?username=offsecgit&style=flat&color=blue" height="1"/>
+[![Telegram](https://img.shields.io/badge/@offseclinker-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+FAFAzikfPPQzOTcy) <img src="https://komarev.com/ghpvc/?username=offsecgit&style=flat&color=blue" height="1"/>
 
 
 <!--
